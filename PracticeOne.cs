@@ -1,43 +1,44 @@
-﻿using System;
+using System;
 
-class Person
+class GroupSchedule
 {
-    public int Age { get; private set; }
-    public string Name { get; private set; }
+    public int WeeklyHours;
+    public string GroupName;
 
-    public Person(int age, string name)
+    public GroupSchedule(int weeklyHours, string groupName)
     {
-        Age = age;
-        Name = name;
+        WeeklyHours = weeklyHours;
+        GroupName = groupName;
     }
 
     public void DisplayInfo()
     {
-        Console.WriteLine($"Имя: {Name}, Возраст: {Age}");
+        Console.WriteLine($"Группа: {GroupName}");
+        Console.WriteLine($"Количество учебных часов в неделю: {WeeklyHours}");
     }
 }
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        Console.Write("Введите имя: ");
-        string name = Console.ReadLine();
-        
-        while (string.IsNullOrWhiteSpace(name))
+        Console.Write("Введите название группы: ");
+        string groupName = Console.ReadLine().Trim(); 
+
+        while (string.IsNullOrEmpty(groupName))
         {
-            Console.Write("Имя не может быть пустым. Введите имя: ");
-            name = Console.ReadLine();
+            Console.WriteLine("Ошибка! Название группы не может быть пустым. Попробуйте снова: ");
+            groupName = Console.ReadLine().Trim(); 
         }
 
-        int age;
-        Console.Write("Введите возраст: ");
-        while (!(int.TryParse(Console.ReadLine(), out age) && age >= 0 && age <= 150))
+        Console.Write("Введите количество учебных часов в неделю: ");
+        int hours;
+        while (!int.TryParse(Console.ReadLine(), out hours) || hours < 0)
         {
-            Console.Write("Некорректный возраст. Введите возраст (0-150): ");
+            Console.WriteLine("Ошибка! Введите корректное количество часов (целое число, большее или равное 0): ");
         }
 
-        Person person = new Person(age, name);
-        person.DisplayInfo();
+        GroupSchedule schedule = new GroupSchedule(hours, groupName);
+        schedule.DisplayInfo();
     }
 }
