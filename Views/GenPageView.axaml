@@ -1,0 +1,75 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:Kursovoy.ViewModels"
+             x:Class="Kursovoy.Views.GenPageView"
+             x:DataType="vm:GenPageViewModel">
+    <ScrollViewer>
+        <StackPanel Margin="30" Spacing="25">
+            <TextBlock Text="Настройка генерации расписания"
+                       FontSize="26"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+            <Border Background="#3a3a3a" CornerRadius="10" Padding="16" Margin="-10,0,0,0">
+                <StackPanel Spacing="10">
+                    <TextBlock Text="Предпочтения преподавателей"
+                               FontSize="20"
+                               FontWeight="SemiBold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="ФИО преподавателя" Foreground="White"/>
+                    <TextBox Text="{Binding TeacherName}" Width="350"/>
+
+                    <TextBlock Text="Предпочитаемые дни недели" Foreground="White"/>
+                    <TextBox Text="{Binding TeacherPreferredDays}"
+                             Width="350"
+                             Watermark="Например: Понедельник, Среда, Пятница"/>
+
+                    <TextBlock Text="Предпочитаемые пары" Foreground="White"/>
+                    <TextBox Text="{Binding TeacherPreferredClassNumbers}"
+                             Width="350"
+                             Watermark="Например: 1, 2, 3"/>
+
+                    <Button Content="Сохранить предпочтения преподавателя"
+                            Command="{Binding SaveTeacherPreferencesCommand}"
+                            Width="300"
+                            HorizontalAlignment="Left"
+                            Background="#4b6db1"
+                            Foreground="White"
+                            Margin="0,10,0,0"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#3a3a3a" CornerRadius="10" Padding="16" Margin="-10,0,0,0">
+                <StackPanel Spacing="10">
+                    <TextBlock Text="Предпочтения студентов"
+                               FontSize="20"
+                               FontWeight="SemiBold"
+                               Foreground="White"/>
+
+                    <TextBlock Text="Номер группы" Foreground="White"/>
+                    <TextBox Text="{Binding StudentGroup}" Width="350"/>
+
+                    <TextBlock Text="Предпочитаемые дни недели" Foreground="White"/>
+                    <TextBox Text="{Binding StudentPreferredDays}"
+                             Width="350"
+                             Watermark="Например: Вторник, Четверг"/>
+
+                    <TextBlock Text="Предпочитаемые пары" Foreground="White"/>
+                    <TextBox Text="{Binding StudentPreferredClassNumbers}"
+                             Width="350"
+                             Watermark="Например: 1, 2, 3"/>
+
+                    <Button Content="Сохранить предпочтения студентов"
+                            Command="{Binding SaveStudentPreferencesCommand}"
+                            Width="300"
+                            HorizontalAlignment="Left"
+                            Background="#4b6db1"
+                            Foreground="White"
+                            Margin="0,10,0,0"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

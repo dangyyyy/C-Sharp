@@ -1,0 +1,52 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Kursovoy.Views.AboutView">
+
+    <Grid>
+        <Border Background="#3a3a3a"
+                CornerRadius="16"
+                Padding="30"
+                Width="420"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                BoxShadow="0 0 25 #00000080">
+      
+            <StackPanel Spacing="18" HorizontalAlignment="Center">
+        
+                <Grid Width="100" Height="100">
+                    <Ellipse Fill="#4b6db1"/>
+                    <TextBlock Text="ДЛ"
+                               Foreground="White"
+                               FontSize="36"
+                               FontWeight="Bold"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               TextAlignment="Center"/>
+                </Grid>
+
+                <TextBlock Text="Лоллин Даниил Владиславович"
+                           FontSize="22"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           HorizontalAlignment="Center"/>
+        
+                <TextBlock Text="РТУ МИРЭА, 1 курс, БСБО-51-24"
+                           FontSize="16"
+                           Foreground="#cccccc"
+                           HorizontalAlignment="Center"/>
+        
+                <Border Background="#4b6db1"
+                        CornerRadius="8"
+                        Padding="8"
+                        Cursor="Hand"
+                        PointerPressed="GitHub_Clicked">
+                    <TextBlock Text="Перейти на GitHub"
+                               Foreground="White"
+                               FontWeight="SemiBold"
+                               HorizontalAlignment="Center"/>
+                </Border>
+        
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

@@ -1,0 +1,1723 @@
+📅 Генерация расписания на 16 недель:
+Групп: 4, Пар в день: 4, Дней в неделе: 5
+====================================================================
+
+📘 Группа-1
+
+  🔄 Нечетная неделя (#1):
+    📅 День 1 (10.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (11.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (12.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (13.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (14.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#2):
+    📅 День 1 (17.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (18.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (19.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (20.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (21.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#3):
+    📅 День 1 (24.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (25.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (26.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (27.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (28.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#4):
+    📅 День 1 (31.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (01.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (02.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (03.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (04.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#5):
+    📅 День 1 (07.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (08.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (09.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (10.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (11.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#6):
+    📅 День 1 (14.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (15.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (16.06) — Праздник
+    📅 День 4 (17.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (18.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#7):
+    📅 День 1 (21.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (22.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (23.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (24.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (25.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#8):
+    📅 День 1 (28.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (29.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (30.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (01.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (02.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#9):
+    📅 День 1 (05.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (06.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (07.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (08.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (09.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#10):
+    📅 День 1 (12.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (13.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (14.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (15.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (16.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#11):
+    📅 День 1 (19.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (20.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (21.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (22.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (23.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#12):
+    📅 День 1 (26.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (27.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (28.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (29.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (30.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#13):
+    📅 День 1 (02.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (03.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (04.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (05.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (06.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#14):
+    📅 День 1 (09.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (10.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (11.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (12.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (13.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#15):
+    📅 День 1 (16.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (17.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (18.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (19.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (20.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#16):
+    📅 День 1 (23.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (24.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (25.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (26.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (27.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+📘 Группа-2
+
+  🔄 Нечетная неделя (#1):
+    📅 День 1 (10.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (11.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (12.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (13.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (14.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#2):
+    📅 День 1 (17.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (18.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (19.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (20.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (21.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#3):
+    📅 День 1 (24.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (25.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (26.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (27.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (28.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#4):
+    📅 День 1 (31.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (01.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (02.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (03.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (04.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#5):
+    📅 День 1 (07.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (08.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (09.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (10.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (11.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#6):
+    📅 День 1 (14.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (15.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (16.06) — Праздник
+    📅 День 4 (17.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (18.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#7):
+    📅 День 1 (21.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (22.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (23.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (24.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (25.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#8):
+    📅 День 1 (28.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (29.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (30.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (01.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (02.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#9):
+    📅 День 1 (05.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (06.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (07.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (08.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (09.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#10):
+    📅 День 1 (12.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (13.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (14.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (15.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (16.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#11):
+    📅 День 1 (19.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (20.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (21.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (22.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (23.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#12):
+    📅 День 1 (26.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (27.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (28.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (29.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (30.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#13):
+    📅 День 1 (02.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (03.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (04.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (05.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (06.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#14):
+    📅 День 1 (09.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (10.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (11.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (12.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (13.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#15):
+    📅 День 1 (16.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (17.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (18.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (19.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (20.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#16):
+    📅 День 1 (23.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (24.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (25.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (26.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (27.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+📘 Группа-3
+
+  🔄 Нечетная неделя (#1):
+    📅 День 1 (10.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (11.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (12.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (13.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (14.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#2):
+    📅 День 1 (17.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (18.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (19.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (20.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (21.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#3):
+    📅 День 1 (24.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (25.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (26.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (27.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (28.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#4):
+    📅 День 1 (31.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (01.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (02.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (03.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (04.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#5):
+    📅 День 1 (07.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (08.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (09.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (10.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (11.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#6):
+    📅 День 1 (14.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (15.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (16.06) — Праздник
+    📅 День 4 (17.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (18.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#7):
+    📅 День 1 (21.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (22.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (23.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (24.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (25.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#8):
+    📅 День 1 (28.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (29.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (30.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (01.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (02.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#9):
+    📅 День 1 (05.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (06.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (07.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (08.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (09.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#10):
+    📅 День 1 (12.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (13.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (14.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (15.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (16.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#11):
+    📅 День 1 (19.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (20.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (21.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (22.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (23.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#12):
+    📅 День 1 (26.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (27.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (28.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (29.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (30.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#13):
+    📅 День 1 (02.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (03.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (04.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (05.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (06.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#14):
+    📅 День 1 (09.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (10.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (11.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (12.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (13.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Нечетная неделя (#15):
+    📅 День 1 (16.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (17.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (18.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (19.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (20.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Четная неделя (#16):
+    📅 День 1 (23.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (24.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (25.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (26.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (27.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+📘 Группа-4
+
+  🔄 Нечетная неделя (#1):
+    📅 День 1 (10.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (11.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (12.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (13.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (14.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#2):
+    📅 День 1 (17.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (18.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (19.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (20.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (21.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#3):
+    📅 День 1 (24.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (25.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (26.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (27.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (28.05) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#4):
+    📅 День 1 (31.05) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (01.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (02.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (03.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (04.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#5):
+    📅 День 1 (07.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (08.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (09.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (10.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (11.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#6):
+    📅 День 1 (14.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (15.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (16.06) — Праздник
+    📅 День 4 (17.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (18.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#7):
+    📅 День 1 (21.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (22.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (23.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (24.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (25.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#8):
+    📅 День 1 (28.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (29.06) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (30.06) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (01.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (02.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#9):
+    📅 День 1 (05.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (06.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (07.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (08.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (09.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#10):
+    📅 День 1 (12.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (13.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (14.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (15.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (16.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#11):
+    📅 День 1 (19.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (20.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (21.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (22.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (23.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#12):
+    📅 День 1 (26.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (27.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (28.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (29.07) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (30.07) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#13):
+    📅 День 1 (02.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (03.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (04.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (05.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (06.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#14):
+    📅 День 1 (09.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (10.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (11.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (12.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (13.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+
+  🔄 Нечетная неделя (#15):
+    📅 День 1 (16.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 2 (17.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 3 (18.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 4 (19.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 5 (20.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+
+  🔄 Четная неделя (#16):
+    📅 День 1 (23.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 2 (24.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 3 (25.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)
+    📅 День 4 (26.08) — Корпус: с-20
+        ⏰ Пара 1: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 2: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 3: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 4: физика (Avalonia.Controls.ComboBoxItem, с-20)
+    📅 День 5 (27.08) — Корпус: с-20
+        ⏰ Пара 1: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 2: математика (Avalonia.Controls.ComboBoxItem, в-78)
+        ⏰ Пара 3: физика (Avalonia.Controls.ComboBoxItem, с-20)
+        ⏰ Пара 4: математика (Avalonia.Controls.ComboBoxItem, в-78)

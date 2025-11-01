@@ -1,0 +1,78 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:Kursovoy.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="1000" d:DesignHeight="600"
+             x:Class="Kursovoy.Views.AnalysView"
+             x:DataType="vm:AnalysViewModel">
+
+
+    <ScrollViewer>
+        <StackPanel Margin="20" Spacing="10">
+            <TextBlock Text="Анализ расписания"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Foreground="White"/>
+
+            <Border Background="#3a3a3a" CornerRadius="10" Padding="16" Margin="-10,0,0,0">
+                <StackPanel Spacing="10">
+
+                    <Button Content="Загрузить расписание"
+                            Command="{Binding LoadScheduleCommand}"
+                            Width="178"
+                            HorizontalAlignment="Left"
+                            Background="#4b6db1"
+                            Foreground="White"/>
+
+                    <TextBlock Text="Загрузите файл базы данных расписания для проведения анализа."
+                               FontSize="14"
+                               Foreground="White"
+                               TextWrapping="Wrap"
+                               LineSpacing="5"/>
+
+                    <Button Content="Выполнить анализ"
+                            Command="{Binding RunAnalysisCommand}"
+                            Width="145"
+                            HorizontalAlignment="Left"
+                            Background="#4b6db1"
+                            Foreground="White"/>
+
+                </StackPanel>
+            </Border>
+
+            <Border Background="#2D2D30" CornerRadius="10" Padding="10" Margin="0,10,0,0">
+                <StackPanel>
+                    <TextBlock Text="Анализ с параметрами из настроек" FontWeight="Bold" FontSize="18" Foreground="White" Margin="0,0,0,10"/>
+                    <ItemsControl ItemsSource="{Binding SettingsWarnings}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Foreground="White" Margin="0,2" TextWrapping="Wrap">
+                                    <Run Text="• "/>
+                                    <Run Text="{Binding}" />
+                                </TextBlock>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+            </Border>
+
+            <Border Background="#2D2D30" CornerRadius="10" Padding="10" Margin="0,10,0,20">
+                <StackPanel>
+                    <TextBlock Text="Анализ пересечений" FontWeight="Bold" FontSize="18" Foreground="White" Margin="0,0,0,10"/>
+                    <ItemsControl ItemsSource="{Binding ScheduleConflicts}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Foreground="White" Margin="0,2" TextWrapping="Wrap">
+                                    <Run Text="• "/>
+                                    <Run Text="{Binding}" />
+                                </TextBlock>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

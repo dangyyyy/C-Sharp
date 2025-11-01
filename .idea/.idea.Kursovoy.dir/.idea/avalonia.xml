@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Views/AboutView.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/AnalysView.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/DataView.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/GenPageView.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/MainWindow.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/SettingsView.axaml" value="Kursovoy.csproj" />
+        <entry key="Views/VisualView.axaml" value="Kursovoy.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
